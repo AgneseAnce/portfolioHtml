@@ -1,0 +1,48 @@
+html {
+height: 100%;
+}
+body {
+height: 100%;
+width: 90%;
+margin: 15px;
+background-image: linear-gradient(darkSlateGrey, bisque);
+background-repeat: no-repeat;
+}
+
+h1 {
+color: mistyrose;
+text-align: center;
+font-family: "papyrus", fantasy;
+/*font-style: oblique;*/
+font-variant: small-caps;
+}
+
+#navigation a {
+color: khaki;
+margin: 20px;
+}
+
+ul {
+list-style: square inside;
+/*list-style: inside;*/
+margin: 2;
+padding: 2px;
+}
+
+ol {
+list-style: decimal inside;
+/*list-style: inside;*/
+margin: 2;
+padding: 2px;
+}
+
+h2 {
+text-align: left;
+color: wheat;
+font-style: oblique;
+}
+
+#seizeTheDay {
+width: 30%;
+float: right;
+}
