@@ -30,6 +30,7 @@ padding: 2px;
 }
 
 ol {
+
 list-style: decimal inside;
 /*list-style: inside;*/
 margin: 2;
@@ -46,3 +47,7 @@ font-style: oblique;
 width: 30%;
 float: right;
 }
+#me {
+width: 15%;
+float: left;
+margin: 0px 10px 0px 0px;}
